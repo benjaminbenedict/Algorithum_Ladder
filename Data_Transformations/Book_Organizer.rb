@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/56250363/create-a-deep-nested-hash-using-loops-in-ruby
+
 # Given a list of books provided in this format:
 
 # [
@@ -28,4 +30,3 @@
 # {title: "The Great Gatsby", year: 1925 }
 # ]
 # }
-
