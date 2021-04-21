@@ -22,6 +22,13 @@ def lets_do_some_permutations(array1, array2)
   return final_array
 end
 
+# Hash method
+
+# def now_lets_b_fancey(array1, array2)
+#   test
+
+# end
+
 input1 = ["a", "b", "c"]
 input2 = ["d", "e", "f", "g"]
 
